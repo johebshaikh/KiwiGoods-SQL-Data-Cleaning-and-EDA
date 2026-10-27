@@ -24,7 +24,7 @@ Four CSV files, imported as text into raw tables and profiled before any change:
 ## Tools and method
 
 MySQL Workbench, SQL (joins, CTEs, window functions, `GROUP BY` with `HAVING`, `STR_TO_DATE`, `REPLACE`).
-The cleaning and EDA structure follows Alex the Analyst's SQL portfolio project tutorial, applied here to a new, multi-table dataset.
+The cleaning and EDA were applied here to a new, multi-table dataset.
 
 ## Data cleaning
 
